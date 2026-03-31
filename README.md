@@ -1,7 +1,7 @@
 credit-card-analysis
 1. Objective :
 
-to build two interactive Power BI dashboards from the provided datasets. The dashboards should provide actionable insights and be filtered by gender (Male/Female). The primary focus is to create meaningful visualizations based on key metrics related to Credit Card Customers and Credit Card Transactions. ________________________________________
+to build two interactive Power BI dashboards from the provided datasets. The dashboards should provide actionable insights and be filtered by gender (Male/Female). The primary focus is to create meaningful visualizations based on key metrics related to Credit Card Customers and Credit Card Transactions. 
 2. Problem Statement :
 		Organizations often lack an integrated view of credit card customer data and transaction activity, making it challenging to analyze spending behavior, transaction frequency, and key performance metrics. This project aims to address this gap by converting raw data into interactive and insightful dashboards, enabling effective customer segmentation and better understanding of transaction trends.
 
