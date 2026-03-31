@@ -62,7 +62,7 @@ Personalized engagement
         
 Retaining such customers is significantly more cost-effective than acquiring new ones.
     
- 15. Challenges faced:
+ 9. Challenges faced:
      
 	   • Handling missing customer IDs and incomplete product information.
 
