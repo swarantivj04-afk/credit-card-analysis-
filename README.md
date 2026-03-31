@@ -18,8 +18,8 @@ there are 2 datasets attached with this project
 5. Tools & Technologies Used
        •	PowerBI
 6. Data Cleaning & Preparation
-        data import and initial explore
-        remove duplicate Ensured no duplicate transactions affected analysis
+        data import and initial explore .
+        remove duplicate Ensured no duplicate transactions affected analysis.
 
 
 7. Key Analysis Questions :
@@ -27,10 +27,10 @@ there are 2 datasets attached with this project
         Which customer segments (age/income/gender) have higher credit usage and potential value?
         What is the total revenue generated and how does it vary over time (weekly trends)?
 8. Key Insights :
-      top 2 age groupe having max spending : 36-45 , 46-55 (male mostly), spent on bills 
-      the spend for entertainment was done by females
-      people with high income spent high 
-      maximum transactions are made for paying bills9
+      top 2 age groupe having max spending : 36-45 , 46-55 (male mostly) spent on bills .
+      the spend for entertainment was done by females .
+      people with high income spent high .
+      maximum transactions are made for paying bills.
       total spend is near about 18-19M in a week.
 9. Business Recommendations :
       •	High-value customers must be strategically retained.
