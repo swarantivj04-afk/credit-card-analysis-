@@ -30,31 +30,45 @@ to build two interactive Power BI dashboards from the provided datasets. The das
 9. Key Analysis Questions :
     
    What is the distribution of customers by gender, age group, and income group?
-        Which customer segments (age/income/gender) have higher credit usage and potential value?
-        What is the total revenue generated and how does it vary over time (weekly trends)?
+   
+    Which customer segments (age/income/gender) have higher credit usage and potential value?
+   
+     What is the total revenue generated and how does it vary over time (weekly trends)?
    
 11. Key Insights :
     
       top 2 age groupe having max spending : 36-45 , 46-55 (male mostly) spent on bills .
+    
       the spend for entertainment was done by females .
+    
       people with high income spent high .
+    
       maximum transactions are made for paying bills.
+
+    
       total spend is near about 18-19M in a week.
     
 13. Business Recommendations :
     
       •	High-value customers must be strategically retained.
+    
    •	customer representing high lifetime value and should be prioritized through:
-        VIP programs
-        Exclusive offers
-        Personalized engagement
-        Retaining such customers is significantly more cost-effective than acquiring new ones.
+   
+   VIP programs
+        
+Exclusive offers
+        
+Personalized engagement
+        
+Retaining such customers is significantly more cost-effective than acquiring new ones.
     
  15. Challenges faced:
      
 	   • Handling missing customer IDs and incomplete product information.
-    • Identifying and removing duplicate transactions.
-    • cleaning inconsistent date formats for time-based analysis.
+
+• Identifying and removing duplicate transactions.
+
+• cleaning inconsistent date formats for time-based analysis.
 
 
 
