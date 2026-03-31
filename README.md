@@ -7,8 +7,7 @@ to build two interactive Power BI dashboards from the provided datasets. The das
 								Organizations often lack an integrated view of credit card customer data and transaction activity, making it challenging to analyze spending behavior, transaction frequency, and key performance metrics. This project aims to address this gap by converting raw data into interactive and insightful dashboards, enabling effective customer segmentation and better understanding of transaction trends.
 
 4. Dataset Overview :
-   
-there are 2 datasets attached with this project
+   there are 2 datasets attached with this project
               1.Credit card transaction data
       		  •	Source: creditCard.csv
       		  •	Number of Records: 10293
