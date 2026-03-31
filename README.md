@@ -8,13 +8,13 @@ to build two interactive Power BI dashboards from the provided datasets. The das
 
 4. Dataset Overview :
 there are 2 datasets attached with this project
-      1. Credit card transaction data
-        •	Source: creditCard.csv
-        •	Number of Records: 10293
-        •	Time Period Covered: 4 to 5 hours
-       2. customerdata
-         	Source: customer.csv
-        •	Number of Records: 1029
+              1.Credit card transaction data
+      		  •	Source: creditCard.csv
+      		  •	Number of Records: 10293
+    	         	 •       Time Period Covered: 4 to 5 hours
+      	 2. customerdata
+         		Source: customer.csv
+        	•	Number of Records: 1029
 5. Tools & Technologies Used
        •	PowerBI
 6. Data Cleaning & Preparation
