@@ -1,12 +1,12 @@
-# 💳 Credit Card Analysis Dashboard (Power BI)
+#  Credit Card Analysis Dashboard (Power BI)
 
-## 📌 Objective
+##  Objective
 
 To build two interactive Power BI dashboards using customer and transaction datasets. The dashboards provide **actionable insights** into customer behavior and transaction trends, with filtering capabilities based on **gender (Male/Female)**.
 
 ---
 
-## 📊 Problem Statement
+##  Problem Statement
 
 Organizations often lack an integrated view of **credit card customer data** and **transaction activity**, making it difficult to:
 
@@ -18,7 +18,7 @@ This project transforms raw data into **interactive dashboards** for better deci
 
 ---
 
-## 🗂️ Dataset Overview
+##  Dataset Overview
 
 ### 1. Credit Card Transactions
 
@@ -33,13 +33,13 @@ This project transforms raw data into **interactive dashboards** for better deci
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * **Power BI**
 
 ---
 
-## 🧹 Data Cleaning & Preparation
+##  Data Cleaning & Preparation
 
 * Imported and explored datasets
 * Removed duplicate transactions
@@ -49,7 +49,7 @@ This project transforms raw data into **interactive dashboards** for better deci
 
 ---
 
-## 🔍 Key Analysis Questions
+##  Key Analysis Questions
 
 * What is the distribution of customers by **gender, age group, and income group**?
 * Which customer segments have **higher credit usage and value**?
@@ -57,20 +57,20 @@ This project transforms raw data into **interactive dashboards** for better deci
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
-* 💡 Top spending age groups: **36–45 and 46–55 (mostly males)**
-* 💡 **Females spend more on entertainment**
-* 💡 **High-income customers** contribute significantly to total spending
-* 💡 Majority of transactions are for **bill payments**
-* 💡 Weekly total spend is approximately **18–19 million**
+*  Top spending age groups: **36–45 and 46–55 (mostly males)**
+*  **Females spend more on entertainment**
+*  **High-income customers** contribute significantly to total spending
+*  Majority of transactions are for **bill payments**
+*  Weekly total spend is approximately **18–19 million**
 
 ---
 
-## 💼 Business Recommendations
+##  Business Recommendations
 
-* 🎯 Focus on **retaining high-value customers**
-* 🎯 Prioritize customers with high lifetime value through:
+*  Focus on **retaining high-value customers**
+*  Prioritize customers with high lifetime value through:
 
   * VIP programs
   * Exclusive offers
@@ -80,7 +80,7 @@ This project transforms raw data into **interactive dashboards** for better deci
 
 ---
 
-## ⚠️ Challenges Faced
+##  Challenges Faced
 
 * Handling missing customer IDs
 * Removing duplicate transactions
@@ -89,7 +89,7 @@ This project transforms raw data into **interactive dashboards** for better deci
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 * Interactive filters (Gender-based segmentation)
 * Customer segmentation visuals
@@ -99,7 +99,7 @@ This project transforms raw data into **interactive dashboards** for better deci
 
 ---
 
-## 🚀 Conclusion
+##  Conclusion
 
 This project demonstrates how **data visualization and analytics** can uncover valuable insights into customer behavior and spending patterns, helping businesses make **data-driven decisions**.
 
